@@ -1,18 +1,8 @@
 <template>
+    
+    <RouterView/>
  
-  <AdminDashboard />
 </template>
-
-<script>
-import AdminDashboard from './components/AdminDashboard.vue'
-
-export default {
-  name: 'App',
-  components: {
-    AdminDashboard
-  }
-}
-</script>
 
 <style>
 #app {
@@ -22,8 +12,9 @@ export default {
 
 
 }
-h3 {
-  margin: 40px 0 0;
+*{
+  margin:0;
+  padding:0;
 }
 ul {
   list-style-type: none;
