@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+![image](https://github.com/eaimiesylv/vuedashboard/assets/50324524/57c2e719-ad19-49b1-96a8-dd341d451dae)
+
